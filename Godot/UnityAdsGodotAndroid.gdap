@@ -1,0 +1,9 @@
+[config]
+
+name="UnityAdsGodotAndroid"
+binary_type="local"
+binary="UnityAdsGodotAndroid-release.aar"
+
+[dependencies]
+
+remote=["com.unity3d.ads:unity-ads:4.2.1"]
